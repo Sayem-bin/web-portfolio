@@ -17,8 +17,8 @@ p{
 }
 .half-width{
     width: 40%;
-   float: left;
-    margin-left: 5%;
+    float: left;
+    margin-left:5%;
 }
 .half-width img{
     width:100%
@@ -72,7 +72,9 @@ section{
     border-left:7px solid;
     border-image: linear-gradient(180deg,blue,cyan );
     border-image-slice: 1;
-
+}
+#font{
+    margin-left:5%;
 }
 footer{
     text-align: center;
